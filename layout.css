@@ -1,0 +1,124 @@
+body { 
+	background: url(pics/bg.jpg) no-repeat right top fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#sheet{
+	background-color: #FFFFFF;
+	width: 70%;
+	max-width: 1000px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#banner{
+	/*content: url(banner.png);*/
+	width: 99.9%;
+}
+#menu{
+	background-color: #916f6f;
+	width: 100%;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+a.menubutton{
+	color: #ffffff;
+	font-size: 16pt;
+	font-family: sans-serif;
+	text-decoration: none;
+	margin-left: 2%;
+	margin-right: 20px; /*10%*/
+}
+#content{
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+h1{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20pt;
+	color: #3863c7;
+}
+h2{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 15pt;
+}
+h3{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 13pt;
+}
+h4{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 12pt;
+}
+p,ul{
+	font-family: sans-serif;
+	font-size: 12pt;
+	line-height: 19pt;
+}
+p.quote{
+	font-style: italic;
+}
+p.sign{
+	margin-top: -8px;
+	margin-left: 10px
+}
+input{
+	font-family: sans-serif;
+	font-size: 12pt;
+	line-height: 19pt;
+	width:99%;
+}
+a{
+	color: #3863c7;
+	text-decoration: none;
+}
+.centeredpic{
+	display: block;
+	margin: 0 auto;
+}
+.photoh{
+	display: block;
+	width: 55%;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	box-shadow: 1px 1px 5px grey;	
+}
+.photov{
+	display: block;
+	width: 35%;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	box-shadow: 1px 1px 5px grey;	
+}
+.video{
+	display: block;
+	width: 75%;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
+	box-shadow: 1px 1px 5px grey;	
+}
+.doublephoto{
+	display: block;
+	width: 40%;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	box-shadow: 1px 1px 5px grey;	
+}
