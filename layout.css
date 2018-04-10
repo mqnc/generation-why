@@ -89,7 +89,7 @@ a{
 }
 .photoh{
 	display: block;
-	width: 55%;
+	width: 75%;
 	margin: 0 auto;
 	border-style: solid;
 	border-color: white;
@@ -98,7 +98,7 @@ a{
 }
 .photov{
 	display: block;
-	width: 35%;
+	width: 50%;
 	margin: 0 auto;
 	border-style: solid;
 	border-color: white;
